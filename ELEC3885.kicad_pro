@@ -318,8 +318,24 @@
   },
   "sheets": [
     [
-      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
+      "eaef1172-3351-417c-bfc4-74a598f141cb",
       ""
+    ],
+    [
+      "ffd175d1-912a-4224-be1e-a8198680f46b",
+      "Audio"
+    ],
+    [
+      "3c9f2675-bcfe-4a13-8988-99caeafacad4",
+      "Teensy"
+    ],
+    [
+      "efdad2b4-cd57-4c95-97e8-5b864f2cd9b4",
+      "Power"
+    ],
+    [
+      "edb4d620-a826-41be-bd87-be038303d2ba",
+      "UI"
     ]
   ],
   "text_variables": {}
