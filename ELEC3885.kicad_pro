@@ -127,7 +127,8 @@
         0.0,
         0.2,
         0.3,
-        0.5
+        0.5,
+        0.7
       ],
       "via_dimensions": [
         {
@@ -393,7 +394,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": ""
+      "vrml": "../3D/ELEC3885.wrl"
     },
     "page_layout_descr_file": ""
   },
