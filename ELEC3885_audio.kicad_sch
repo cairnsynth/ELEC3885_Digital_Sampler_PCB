@@ -2197,7 +2197,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4263fe08-e8ff-4963-bba5-a04dc0cf743a)
     (property "Reference" "FB1" (id 0) (at 105.3592 17.78 90))
-    (property "Value" "FerriteBead" (id 1) (at 105.3592 20.32 90))
+    (property "Value" "600" (id 1) (at 105.3592 20.32 90))
     (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (id 2) (at 105.41 27.178 90)
       (effects (font (size 1.27 1.27)) hide)
     )
